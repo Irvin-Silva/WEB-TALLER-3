@@ -6,3 +6,6 @@
 
 ## 2. Utilizando Bootstrap
 ![Image text](https://github.com/Irvin-Silva/WEB-TALLER-3/blob/main/ref/BootsTrap.png)
+
+## 2. Utilizando Bulma
+![Image text](https://github.com/Irvin-Silva/WEB-TALLER-3/blob/main/ref/Bulma.png)
